@@ -14,6 +14,10 @@
                 <behavior>Edit</behavior>
                 <field>copado_name__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TestLabel__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

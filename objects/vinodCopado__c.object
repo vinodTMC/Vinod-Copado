@@ -162,6 +162,16 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>TestLabel__c</fullName>
+        <externalId>false</externalId>
+        <label>TestLabel</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>copado_name__c</fullName>
         <externalId>false</externalId>
         <label>copado name</label>
